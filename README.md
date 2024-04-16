@@ -27,3 +27,9 @@ if ( num & 1 )
 ```js
 if ( num & 1 )
 ```
+
+#### Python
+
+```py
+if num & 1:
+```
