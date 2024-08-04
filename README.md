@@ -33,3 +33,29 @@ if ( num & 1 )
 ```py
 if num & 1:
 ```
+
+### Swap_Two_numbers
+
+#### C
+
+```c
+a = a ^ b;
+b = b ^ a;
+a = a ^ b;
+```
+
+#### Javascript
+
+```javascript
+a = a ^ b;
+b = b ^ a;
+a = a ^ b;
+```
+
+#### Python
+
+```python
+a = a ^ b
+b = b ^ a
+a = a ^ b
+```
