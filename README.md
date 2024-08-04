@@ -39,17 +39,13 @@ if num & 1:
 #### C
 
 ```c
-a = a ^ b;
-b = b ^ a;
-a = a ^ b;
+a^=b^=a^=b;
 ```
 
 #### Javascript
 
 ```javascript
-a = a ^ b;
-b = b ^ a;
-a = a ^ b;
+a^=b^=a^=b;
 ```
 
 #### Python
