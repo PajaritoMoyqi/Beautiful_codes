@@ -8,9 +8,9 @@ int main()
     /* ODD CHECK */
     // if given number is odd, LSB(Least Significant Bit) of the variable should be 1
     if ( num & 1 ) // bit AND operation
-        printf( "Odd number\n" );
+        std::cout << "Odd number" << std::endl;
     else
-        printf( "Even number\n" );
+        std::cout << "Even number" << std::endl;
 
     return 0;
 }
