@@ -48,6 +48,12 @@ if num & 1:
 a^=b^=a^=b;
 ```
 
+#### C++
+
+```cpp
+a^=b^=a^=b;
+```
+
 #### Javascript
 
 ```javascript
