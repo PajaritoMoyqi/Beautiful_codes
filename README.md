@@ -4,6 +4,19 @@ Here is a repository where I store some codes with total beauty, that give us co
 
 Brief codes below.
 
+---
+
+## CONTENTS
+
+- [Copy string](#Copy_string)
+  C
+- [Check odd](#Check_odd)
+  C, C++, Javascript, Python
+- [Swap Two numbers](#Swap_Two_numbers)
+  C, C++, Javascript, Python
+
+---
+
 ## Codes
 
 ### Copy_string
