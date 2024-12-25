@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main( void )
+int main()
 {
     /* INITIALIZATION */
     int a = 1;
