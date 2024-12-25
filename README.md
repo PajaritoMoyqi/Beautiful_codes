@@ -22,6 +22,12 @@ while( *s++ = *t++ );
 if ( num & 1 )
 ```
 
+#### C++
+
+```cpp
+if ( num & 1 )
+```
+
 #### Javascript
 
 ```js
